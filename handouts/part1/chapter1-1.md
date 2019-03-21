@@ -148,7 +148,7 @@ loom可以学起来一起用哦~它也是表达“（问题/困难）逼近”�
 ②at attention 源于stand at attention这个说法，表示“立正”姿势，大家可以猜一下“稍息”是什么？就是stand at ease啦~所以at a moral attention指在道德上保持“立正”（也就是“品德正直”）。  
 ③riotous excursions, riotous指“放荡、疯狂的”（wild, uncontrolled）, excursion常指“短途旅行”，这里是“偏离正道，脱轨”，也就是不干正经事，成天玩乐，甚至有不道德的行为。  
 ④with privileged glimpses into human heart, “窥见人内心深处的荣幸”，glimpses into 表示“窥探，窥视”；privileged也是在呼应上文说的Most of the confidences were unsought.（是别人主动来找我倾诉，给了我这个荣幸。）  
-![C-3](\images\handouts\part1\chapter1-1\C-3.png)
+![C-3](\images\handouts\part1\chapter1-1\C-3.jpg)
 6. If personality is an unbroken series of successful gestures, / then there was something gorgeous about him, / some heightened sensitivity to the promises of life, / as if he were related to one of those intricate machines / that register earthquakes ten thousand miles away.
 假如人的品格是一系列连续不断的成功的姿态，那么这个人身上就有一种瑰丽的异彩，他对于人生的希望具有一种高度的敏感，类似一台能够记录万里以外的地震的错综复杂的仪器。  
 💧句式拆解  
