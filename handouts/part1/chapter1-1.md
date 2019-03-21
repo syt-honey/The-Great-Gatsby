@@ -196,7 +196,7 @@ Content Analysis
 
 初读之下，Fitzgerald的语言让人感觉十分隐晦、难以把握其要义，并且叙述上也有一定的跳跃性。这和作者想要贴合爵士时代的气质有关，而且Fitzgerald本人也非常擅长通过细枝末节来表达故事的主旨。因此这个部分我们会通过梳理线索的方式来把握内容的逻辑；也鼓励大家根据这些线索多去思考，说不定就会找到Fitzgerald在写作中的独具匠心之处哦~  
 
-💧**Clue 1:  This book is written as a memoir (回忆录).**
+💧**Clue 1: This book is written as a memoir (回忆录).**
 
 这本书是以Nick的第一人称视角来叙述的，他既是旁观者（observer）, 也是参与者（participant）. 因此我们需要把握的关键就是“写作”时间（这里用双引号的意思是Nick并不是真正的写作者）。我们来看看原文里都有哪些地方透露了关于写作时间的信息：  
 
