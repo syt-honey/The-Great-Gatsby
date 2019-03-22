@@ -29,18 +29,16 @@ Maecenas（梅塞纳斯）是罗马帝国皇帝奥古斯都的谋臣（statesman
 
 放大↓  
 
+![B-4](\images\handouts\part1\chapter1-2\B-4.jpg)  
+
 Fitzegerald把这两个地方命名为East Egg和West Egg, 其实有一定的时代背景。  
 
 因为在20世纪20年代，纽约的暴发户们（nouveau riche）就开始在这里建造他们的宅邸（mansions）了，起初两边分别叫East Hampton和West Hampton. 然而当时美国人最喜欢的早餐搭配就是Ham and Eggs（火腿鸡蛋），而且如果你住在纽约的曼哈顿区（紧挨着长岛），那么你吃的鸡蛋很可能就来自于长岛上的家禽饲养场（poultry farm）.  
-
 由此，Long Island/Ham(pton)/Egg就在人们的认知里紧密相连，提到East Hampton和West Hampton就会想到Eggs, 于是Fitzegerald索性把这两个地方戏称为East Egg和West Egg。（这恐怕也解释了为什么它们看起来并不十分像是鸡蛋的形状~）  
 
 Fitzegerald本人也曾经在Great Neck（也就是West Egg）居住过。当时他和Zelda的第一个孩子刚出生，夫妇俩为了节省开支便从曼哈顿搬到长岛（曼哈顿的宾馆一个星期要200美元，而在Great Neck租下一栋房子也就300美元一个月）。所以也就不难想象Nick当时住在West Egg每个月也只用80美元了。  
 
 但是对岸的Sand Point可就没那么便宜了，那里聚集的都是背景财产都极为显赫的人家。据不完全统计，当时沿着河岸建造的豪华宅邸就有1200余座，到今天留下的大约是400来座。  
-
-![B-4](\images\handouts\part1\chapter1-2\B-4.jpg)  
-
 
 ### Columbus’s egg
 
