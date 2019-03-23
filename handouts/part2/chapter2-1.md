@@ -180,7 +180,7 @@ Fitzegerald构建的“灰谷”意象展现了一片繁荣和浮华的背后是
 
 **1.The Waste Land (1922) by T. S. Eliot《荒原》T. S. 艾略特**
 
-![T-1](\images\handouts\part2\chapter2-2\T-1.jpg)
+![T-1](\images\handouts\part2\chapter2-1\T-1.jpg)
 
 What are the roots that clutch, what branches grow  
 Out of this stony rubbish? Son of man,  
@@ -214,7 +214,7 @@ Fitzgerald笔下的desolate area of land（荒芜之地），a line of cars craw
 
 **2. Psalms 23 in Bible《圣经》中的诗篇23**
 
-![T-3](\images\handouts\part2\chapter2-2\T-3.jpg)  
+![T-3](\images\handouts\part2\chapter2-1\T-3.jpg)  
 
 Even though I walk  
 through the darkest valley,  
