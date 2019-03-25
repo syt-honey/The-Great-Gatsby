@@ -45,7 +45,7 @@ n. 浪费，挥霍（excessive spending）
 
 💧prodigality的另一个名词形式是prodigal: the/a prodigal (son) 就是指“回头的浪子；改邪归正的人”，比如：A prodigal who returns is more precious than gold. 浪子回头金不换。  
 
-### premeate
+### permeate
 
 vt.& vi. 渗透；弥漫；遍布（to spread to every part of an object or a place）  
 
