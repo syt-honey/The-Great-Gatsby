@@ -117,7 +117,7 @@ epigram是指“警句”，也就是以一种俏皮幽默的方式来讲一些�
 in every particular相当于in every detail. 比如：  
 The documents were identical in almost every particular.  
 这些文件几乎在每个细节上都是完全一样的。  
-*这句话的意思是说对海鸥来说，East Egg和West Egg在形状上的相似能把它们弄得晕头转向（but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead），而对人来说，则是惊叹它们除了形状，其他无一相同。这里暗示了两个地方其实有着不可逾越的鸿沟，我们在课文理解的部分会再详细分析。  
+这句话的意思是说对海鸥来说，East Egg和West Egg在形状上的相似能把它们弄得晕头转向（but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead），而对人来说，则是惊叹它们除了形状，其他无一相同。这里暗示了两个地方其实有着不可逾越的鸿沟，我们在课文理解的部分会再详细分析。  
 3. Her husband, / among various physical accomplishments, / had been one of the most powerful ends / that ever played football at New Haven — / a national figure in a way, / one of those men / who reach such an acute limited excellence at twenty-one / that everything afterward savors of anti-climax.  
 她的丈夫，除了擅长其他各种运动之外，曾经是纽黑文有史以来最厉害的橄榄球锋线球员之一——也可说是个全国闻名的人物，这种人二十一岁就在某个方面取得了登峰造极的成就，往后一切都不免有走下坡路的味道了。  
 💧句式拆解  
@@ -138,7 +138,7 @@ His recent comments savor of hypocrisy.
 ②剩下的部分就是现在分词作伴随状语（具体描述草坪是怎么
 “跑”到房子跟前的）：首先是jumping over sun-dials and brick walks and burning gardens, 然后是变成常春藤drifting up the side.  
 ③其中有两个插入的状语从句，一个由when引导，另一个由as though引导。（把这两个从句拿掉就可以理清句子的结构啦~）  
-*破折号在这里的作用是表示“停顿”或是一种“延续性”，也就是前面的动作jumping一直在进行，更突显出动感。  
+破折号在这里的作用是表示“停顿”或是一种“延续性”，也就是前面的动作jumping一直在进行，更突显出动感。  
 💧外刊高频词  
 momentum 在这里指“〔使运动物体继续运动的〕冲力，推力”，这股动力从绵延的草坪到了墙上茂盛生长的常春藤。momentum还可以用于抽象事物，表示一种“势头”。比如：  
 The number of electric cars on the road is rising fast; green finance is gathering momentum.  

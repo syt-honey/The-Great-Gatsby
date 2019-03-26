@@ -82,7 +82,7 @@ Crush Your Problems
 这个句子比较长，里面包含了一个so...that...从句（如此…以致于…）。  
 💧表达精讲  
 ①wouldn't have been “（即便/就算…），也不会…”，是虚拟语气，表示过去未发生的事情。比如：He wouldn't have been saved even if he had been sent to hospital at once. 即使立即送他去医院，也不能挽救他的生命。  
-*表示过去的虚拟：  
+表示过去的虚拟：  
 主句：主语+should/would/might/could+have done  
 从句：If+主语+had+done  
 ②a flock of=flocks of 表示“成群结队；一大群”，比如：These cases all attracted flocks of famous writers. 这些案件都吸引了大批知名作家的关注。  
@@ -91,7 +91,7 @@ Crush Your Problems
 出租汽车在一五八号街一大排白色蛋糕似的公寓中的一幢前面停下。  
 💧知识拓展  
 这个句子包含了一个隐喻：apartment-house指隔成公寓的建筑物（apartment是公寓，house是独幢的房子），在这里比喻为a long white cake. slice指“（切下来的）一份”，这里的one slice就是其中的一幢啦~  
-*注意这里表示隐喻的说法（of前面是喻体，后面是本体）：a long white cake of apartment-houses  
+注意这里表示隐喻的说法（of前面是喻体，后面是本体）：a long white cake of apartment-houses  
 文中还有一处：He passed his hand over the brown wash-rag of a back.（他的手抚过小狗棕色毛巾似的脊背。）  
 3. The living-room was crowded to the doors / with a set of tapestried furniture / entirely too large for it, / so that to move about / was to stumble continually over / scenes of ladies swinging in the gardens of Versailles.  
 起居室给一套大得很不相称的织锦家具挤得满满当当的，以至于要在室内走动就是不断地绊倒在法国仕女在凡尔赛宫的花园里打秋千的画面上。  

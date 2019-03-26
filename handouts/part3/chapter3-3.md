@@ -95,7 +95,7 @@ Crush Your Problems
 ①这个句子包含了很多倒装成分，我们可以先划出主谓再进行分析。明显a new coupe是主语，后面的which从句作定语从句，可以暂时忽略；而谓语动词就是rested.  
 ②In the ditch beside the road, right side up 属于状语成分，本来应该跟在rested后面，这里放在句子开头前置。  
 ③but violently shorn of one wheel 是过去分词结构作定语修饰a new coupe.  
-*这个句子还原成正常语序就是：A new coupe which had left Gatsby’s drive not two minutes before rested in the ditch beside the road, right side up, but violently shorn of one wheel.  
+这个句子还原成正常语序就是：A new coupe which had left Gatsby’s drive not two minutes before rested in the ditch beside the road, right side up, but violently shorn of one wheel.  
 6. However, as they had left their cars blocking the road, / a harsh, discordant din from those in the rear / had been audible for some time, / and added to the already violent confusion of the scene.  
 现在有五六个好奇的司机在围观，可是，由于他们让自己的车子挡住了路，后面车上的司机已经按了好久喇叭，一片刺耳的噪音更增添了整个场面本来就很严重的混乱。  
 💧表达精讲  
