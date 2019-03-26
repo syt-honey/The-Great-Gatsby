@@ -90,7 +90,7 @@ Production ground to a halt during the strike.
 显然是一个异想天开的眼科医生把它们坚在那儿的，为了招揽生意，扩大他在皇后区的业务，到后来大概他自己也永远闭上了眼睛，再不然就是撇下它们搬走了。  
 💧表达精讲  
 ①some wild wag of an oculist 相当于an oculist that was like some wild wag. wild表示“异想天开的（with unusual ideas）”；wag常见作动词，表示“（狗）摇尾巴”，比如：The dog wagged its tail. 这里wag作为名词比较罕见，指“幽默滑稽的（amusing in an unusual way）人”。  
-*这么形容是因为作者认为把一个看起来非常怪异的广告牌立在这片蛮荒之地很古怪滑稽（bizarre and funny）.  
+这么形容是因为作者认为把一个看起来非常怪异的广告牌立在这片蛮荒之地很古怪滑稽（bizarre and funny）.  
 ②fatten his practice, fatten本义是指“使……长膘，增肥”，这里引申为“为……牟利，使发财”；practice多半指“医生或律师的操业，工作”；所以fatten his practice就可以理解为“招揽生意赚钱”。  
 3. The only building in sight / was a small block of yellow brick / sitting on the edge of the waste land, / a sort of compact Main Street ministering to it, / and contiguous to absolutely nothing.  
 眼前唯一的建筑物是一小排黄砖房子，坐落在这片荒原的边缘，大概是供应本地居民生活必需品的一条小型"主街"，左右隔壁一无所有。  
@@ -111,8 +111,8 @@ Production ground to a halt during the strike.
 💧表达精讲  
 ①gleam of “一丝丝的”，相当于glint of, small amount of.  
 ②an immediately perceptible vitality “显而易见的/马上能察觉的活力”（vigor or liveliness that can be perceived or notice at once）.  
-*这里再拓展一下类似perceive(v.)-perception(n.)-perceptible(adj.)的变形方式，表示“欺骗”：deceive(v.)-deception(n.)-deceptive(adj.)  
-*注意deceptive表示“具有欺骗性的”（misleading）.  
+这里再拓展一下类似perceive(v.)-perception(n.)-perceptible(adj.)的变形方式，表示“欺骗”：deceive(v.)-deception(n.)-deceptive(adj.)  
+注意deceptive表示“具有欺骗性的”（misleading）.  
 ③as if the nerves of her body were continually smouldering, smoulder本义指“ (有烟、无火焰地)闷烧，阴燃 ”，还可以引申为“性感迷人”（If you say someone smoulers, you mean that person is sexually attractive, usually in a mysterious or very intense way.）  
 ![C-3](\images\handouts\part2\chapter2-1\C-3.jpg)  
 5. Tom deferred that much to the sensibilities of those East Eggers who might be on the train.  

@@ -103,14 +103,14 @@ The airport is still paralyzed by the strike.
 ③stunned 表示“惊愕的”，即extremely shocked; tribute 表示“致敬，献礼”，比较正式，常见搭配是pay tribute to. 比如：  
 At her funeral, her oldest friend paid tribute to her life and work.  
 在葬礼上，她最早的朋友对她的一生和工作给予了高度的赞扬。  
-*这里Nick有点说反话的感觉，complete self-sufficiency 指的其实是complete arrogance/conceit，而他“致敬”的则是Miss Baker竟然如此以自我为中心（acknowledging the egotism of her）.  
+这里Nick有点说反话的感觉，complete self-sufficiency 指的其实是complete arrogance/conceit，而他“致敬”的则是Miss Baker竟然如此以自我为中心（acknowledging the egotism of her）.  
 4. “You are!” He took down his drink / as if it were a drop in the bottom of a glass. “How you ever get anything done / is beyond me.  
 "你在训练！"他把酒一饮而尽，仿佛那是杯底的一滴。"我真不明白你怎么可能做得成什么事情。"  
 💧表达精讲  
 ①take down 在这里指“一饮而尽”。  
 ②as if it were a drop in the bottom of a galss 是虚拟语气（所以谓语是were而不是was哦~使用虚拟语气的时候was都要换成were），“仿佛（一杯酒）只是杯底的一滴”，这里夸张地展现了Tom一口把酒喝下的动作。  
 ③sth be beyond sb 表示“某人无法想象/搞不懂某事”，比如：It's beyond me why she wants to marry Jeff. 我无法理解她为什么要嫁给杰夫。  
-*这里的意思是Tom无法想象Miss Baker竟然能做成什么事（get anything done）, 语气里带着明显的轻蔑。  
+这里的意思是Tom无法想象Miss Baker竟然能做成什么事（get anything done）, 语气里带着明显的轻蔑。  
 ![C-2](\images\handouts\part1\chapter1-3\C-2.gif)  
 
 <br>

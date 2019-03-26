@@ -82,7 +82,7 @@ its pleasing contemptuous expression, 一个人的表情如何既“讨人喜欢
 open up in flower-like way 从字面理解是“像花朵一样绽开”，这里其实包含了比喻含义，open up表示“毫无顾忌地谈话”（to say exactly what one thinks or feels），比如：  
 Lorna found that people were willing to open up to her.  
 洛娜发现人们愿意向她敞开心扉畅谈。  
-*所以这里是指Daisy说话时的漫无顾忌和肆无忌惮。  
+所以这里是指Daisy说话时的漫无顾忌和肆无忌惮。  
 3. Their interest rather touched me / and made them less remotely rich / — nevertheless, I was confused / and a little disgusted / as I drove away.  
 他们对我的关心倒很使我感动，也使他们不显得那么有钱与高不可攀了。虽然如此，在我开车回家的路上，我感到迷惑不解，还有点厌恶。  
 💧表达精讲  
@@ -112,7 +112,7 @@ nibble 在这里极具讽刺效果，它的本义是“啃咬，一点一点地�
 从他那悠闲的动作和他那两脚稳踏在草坪上的姿态可以看出他就是盖茨比先生本人，出来确定一下我们本地的天空哪一片是属于他的。  
 💧表达精讲  
 to determine what share was his of our local heavens, share表示“某人应当拥有的一份”，heavens相当于sky.  
-*虽然字面上表达的是Gatsby想要确定并宣示哪一片天空是属于他的，但实际象征着他通过各种手段获取财富想要跻身于上流社会，而且是为了得到，甚至可以说是“拿回”（to reclaim）他觉得原本属于他的——Daisy.  
+虽然字面上表达的是Gatsby想要确定并宣示哪一片天空是属于他的，但实际象征着他通过各种手段获取财富想要跻身于上流社会，而且是为了得到，甚至可以说是“拿回”（to reclaim）他觉得原本属于他的——Daisy.  
 
 
 <br>

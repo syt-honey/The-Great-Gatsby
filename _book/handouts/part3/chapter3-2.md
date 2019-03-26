@@ -84,16 +84,16 @@ Crush Your Problems
 这伙人不到处转悠，而是正襟危坐，自成一体，并且俨然自封为庄重的农村贵族的代表——东卵人向西卵人屈尊俯就，而又小心翼翼提防西卵那灯红酒绿的欢乐。  
 💧句式拆解  
 这个句子的主语是this party, 也就是和Jordan同桌的这些东卵人（上文：...and Jordan invited me to join her own party, who were spread around a table on the other side of the garden）.  
-*注意party在这里不是理解为派对哦~并且下文的itself也是看指代这群人（作为整体看待，所以用了第三人称代词）。  
+注意party在这里不是理解为派对哦~并且下文的itself也是看指代这群人（作为整体看待，所以用了第三人称代词）。  
 💧表达精讲  
 ①ramble 本义是“胡言乱语，到处闲逛”，这里是说这桌人并不像其他人那样在聚会上放浪形骸；  
 ②preserve a dignified homogeneity 可以直译为“维持一种统一的高贵尊严”；homogeneity是homogeneous的名词形式，表示“同质性”；所以这句话的意思就是“每个人都是一副正襟危坐的样子”。  
 ③assume 表示“承担责任”，后面直接加宾语（这里的to是为了引入itself表示“给自己”，代指上文的this party），也就是the function of representing the staid nobility of the country-side.  
 ④function 在这里是“职责”（perform/fulfill a funciton “履行职责”）；represent the staid nobility of the country-side 直译就是“表现出乡绅贵族的那种古板严肃的崇高感”（译文的“俨然自封为庄重的农村贵族的代表”是一样的意思）；  
 ⑤condecend to “表现出高人一等”；这里East Egg condescending to West Egg也就是指“东卵人对西卵人屈尊俯就”；  
-*East Egg和West Egg分别表示“东卵人”和“西卵人”属于我们前面提到的转喻（Metonymy）哦~  
+East Egg和West Egg分别表示“东卵人”和“西卵人”属于我们前面提到的转喻（Metonymy）哦~  
 ⑥and carefully on guard against its spectroscopic gayety, on guard against也就是“提防”；its即West Egg's; spectroscopic gayety, spectroscopic表示“光谱学的；分光镜的” ，gayety表示“欢乐”，直译是“五颜六色/多姿多彩的欢乐”（译文的“灯红酒绿”也用得非常妙哦~）  
-*这一段话都是对东卵人自恃高人一等的贵族气的讽刺。  
+这一段话都是对东卵人自恃高人一等的贵族气的讽刺。  
 4. The moon had risen higher, / and floating in the Sound / was a triangle of silver scales, / trembling a little / to the stiff, tinny drip of the banjoes / on the lawn.  
 月亮升得更高了，海湾里飘着一副三角形的银色天秤，随着草坪上班卓琴铿锵的琴声微微颤动。  
 💧句式拆解  

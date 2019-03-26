@@ -67,7 +67,7 @@ Crush Your Problems
 至少每两周一次，大批包办筵席的人从城里下来，带来好几百英尺帆布帐篷和无数的彩色电灯，足以把盖茨比巨大的花园布置得像一棵圣诞树。  
 💧表达精讲  
 ①a corps of “（完成某项工作的）一群人”，比如the diplomatic corps是“外交使团”。  
-*corps和corpse辨析  
+corps和corpse辨析  
 corps只比corpse少一个e, 所以很容易造成混淆，但两者的意思完全没有关联哦~  
 比如corps除了表示上面的“特别小组”，主要还指“特殊兵种，兵团”：The Corps就是美国海军陆战队。而corpse是指“尸体”（body）.  
 ②to make a Christmas tree of Gatsby's enormous garden 包含了make B of A这个结构，正常语序其实是：make A B (把A变成B，turn A into B)；所以改写之后就是：to make Gatsby's enormous garden a Christmas tree.  
@@ -83,7 +83,7 @@ corps只比corpse少一个e, 所以很容易造成混淆，但两者的意思完
 这个句子的with结构占了基本三分之二的长度 ，但读起来却不会感觉累赘，反而非常富有节奏感，比如chatter and laughter里面就藏了两个押韵：  
 cha[tʃæ]和laugh[læf] 这样的属于Assonance（谐元韵），也就是辅音不同但元音相同；而tter[tə]和ter[tə] 则是我们比较熟悉的Rhyme（尾韵），也就是辅音和元音都相同。  
 而在innuendo and introductions里面隐藏了我们前面提到过的Alliteration（头韵），两个单词的开头都重复了[ɪn]这两个辅音。  
-*了解押韵方面的知识可以帮助我们从理论上更好地理解Fitzegerald写作语言的诗意，但如果要更直接地感受语言的魅力还是要靠自己开口朗读哦~  
+了解押韵方面的知识可以帮助我们从理论上更好地理解Fitzegerald写作语言的诗意，但如果要更直接地感受语言的魅力还是要靠自己开口朗读哦~  
 3. The groups change more swiftly, / swell with new arrivals, / dissolve and form in the same breath...  
 人群的变化越来越快，忽而随着新来的客人而增大，忽而分散后又立即重新组合。  
 💧表达精讲  

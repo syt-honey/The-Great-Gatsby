@@ -24,7 +24,7 @@ Background Information
  
 比如feel blue是“感觉沮丧”，black and blue是“青一块紫一块的”，blue moon既指“蓝月亮”，也表示“千载难逢的，稀有的事物”. 所以blue往往给人负面的印象和感觉，暗含一种“缥缈的可能性”（rare possibility），或者是预示不好/令人感觉不悦的事情发生。而这里Nick正望向窗外的时候，突然传来Mrs. Wilson尖锐刺耳的声音（then the shrill voice of Mrs. McKee called me back into the room）.  
 
-*不知道大家有没有听过还有一种蓝叫克莱因蓝（Klein Blue）呢？  
+不知道大家有没有听过还有一种蓝叫克莱因蓝（Klein Blue）呢？  
 
 这种蓝得名于一位叫做克莱因的艺术家，他相信，只有最单纯的色彩才能唤起最强烈的心灵感受力。而克莱因蓝，就被称为“最蓝的蓝色”。因为它太过纯净，以至于很难找到可与之搭配的色彩进入人们的视野，因此冲击力也格外强烈。  
 
@@ -105,7 +105,7 @@ beat the band 是一个俚语，beat在这里的意思是“超过，胜过”�
 💧表达精讲  
 ①simultaneously 也就是at the same time的高阶表达啦~ 还有比如“同声传译”就是simultaneous interpreting. 但在日常表达中还是用at the same time居多（更符合口语习惯）。  
 ②inexhaustible variety 表示“无穷尽的变化”，inexhaustible也就是unable to be used up; variety表示“丰富性，多样性”。  
-*这个句子暗示了Nick的双重身份，他同时作为故事的participant（参与者）和observer（旁观者），也就是within and without, 所以也才有了两种完全相反的感受。  
+这个句子暗示了Nick的双重身份，他同时作为故事的participant（参与者）和observer（旁观者），也就是within and without, 所以也才有了两种完全相反的感受。  
 
 <br>
 

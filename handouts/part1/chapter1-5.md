@@ -101,7 +101,7 @@ Crush Your Problems
 💧表达精讲  
 ①temperament “气质，性情”，a certain temperament就是指“拥有某一特定性情的人”。  
 ②my own instinct was to telephone immediately for the police, sb's (first) instinct表示“本能，第一反应”，instinct用来替代response或者reaction会高级很多哦~  
-*这里作者也用了一种调侃语气，情况当然没有危急到要报警，所以其实是在故意夸张。  
+这里作者也用了一种调侃语气，情况当然没有危急到要报警，所以其实是在故意夸张。  
 ![C-1](\images\handouts\part1\chapter1-5\C-1.gif)
 3. Tom and Miss Baker, / with several feet of twilight between them, / strolled back into the library, / as if to a vigil / beside a perfectly tangible body...  
 汤姆和贝克小姐，两人中间隔着几英尺的暮色，慢慢溜达着回书房去，仿佛走到一个确实存在的尸体旁边去守夜。  

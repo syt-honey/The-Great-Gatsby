@@ -112,7 +112,7 @@ inconsequence 由前缀in-（表示否定）+ consequence而来，consequence �
 💧表达精讲  
 ①on 在这里作介词表示 “当……时”，比如：Couples are presented with a bottle of wine on their arrival at the hotel.  
 凡夫妇到宾馆将获赠一瓶葡萄酒。  
-*注意on不是和前面的confessed相连的哦~一般直接说confess sth.就可以了，不需要加介词on.  
+注意on不是和前面的confessed相连的哦~一般直接说confess sth.就可以了，不需要加介词on.  
 ②corky but rather impressive 表示“带点木塞味道但口感反倒出色的”，but rather 表示“反倒，仍然”。盛装红酒的瓶子一般使用软木塞，但如果因为储存不当导致酒里带上软木塞的味道其实会非常影响本身酒的香气。  
 ③claret 指的是一种产于法国波尔多的红葡萄酒。  
 ![C-3](\images\handouts\part1\chapter1-4\C-3.jpg)  
@@ -121,7 +121,7 @@ inconsequence 由前缀in-（表示否定）+ consequence而来，consequence �
 💧表达精讲  
 ①acute 在这里也是表达程度之重，相当于extreme.  
 ②of old 表示“从前”，相当于before, in the past.  
-*这句话的逻辑需要结合上下文来理解。“Tom的专注里有种可怜感”，这里的“专注” concentration 是指 Tom 对于《黑色帝国的崛起》这本书及关于它的话题极为热忱执着。  
+这句话的逻辑需要结合上下文来理解。“Tom的专注里有种可怜感”，这里的“专注” concentration 是指 Tom 对于《黑色帝国的崛起》这本书及关于它的话题极为热忱执着。  
 那么为什么说这种自负已经不够了呢？前面Daisy说过 “Tom’s getting very profound” （“汤姆变得很渊博了”）以及 “He reads deep books with long words in them”（“他看一些深奥的书，书里有许多深奥的字眼。”）  
 所以这里暗示了Tom的一种身份焦虑，他不仅希望自己是一个杰出的运动员，而且希望自己能够有某种高雅的兴趣爱好，以此来显出高人一等的样子（或者说彰显自己名门出身的涵养）。  
 
