@@ -30,4 +30,6 @@
     * [Handout3.3](handouts/part3/chapter3-3.md)
   * [Chapter3.4](book/part3/chapter3-4.md)
     * [Handout3.4](handouts/part3/chapter3-4.md)
-
+* [The-Great-Gatsby-part4](book/part4/chapter4-1.md)
+  * [Chapter4.1](book/part4/chapter4-1.md)
+    * [Handout4.1](handouts/part4/chapter4-1.md)
