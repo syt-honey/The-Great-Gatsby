@@ -24,20 +24,17 @@ James Thurber在1991年出版的Robert Lopresti编辑的《瑟伯论犯罪》(Th
 
 ### Trinity College, Oxford (牛津大学三一学院)
 
-![B-4](\images\handouts\part4\chapter4-2\B-4.jpg)  
-
 这是在三一学院校园里照的——我左边那个人现在是唐卡斯特伯爵。（It was taken in Trinity Quad — the man on my left is now the Earl of Dorcaster.）  
 
 盖茨比拿出了在牛津三一学院拍的照片，这让他的经历看起来又像是真的了。  
 
-![B-5](\images\handouts\part4\chapter4-2\B-5.jpg)  
+![B-4](\images\handouts\part4\chapter4-2\B-4.jpg)  
 
 三一学院（The College of the Holy and Undivided Trinity in the University of Oxford），是英国牛津大学的组成学院之一。该学院由Sir Thomas Pope于1555年创建，位于杜伦学院（Durham College）之前的土地上，在英国牛津的Broad Street，介于牛津大学贝利奥尔学院（Balliol College）和布莱克韦尔书店（Blackwell's bookshop）之间，Turl Street对面。  
 
-![B-6](\images\handouts\part4\chapter4-2\B-6.jpg)  
+![B-5](\images\handouts\part4\chapter4-2\B-5.jpg)  
 
 三一学院培养了三名英国首相，与贝利奥尔学院并列第二。校园周围是铁栅栏而不是围墙，学院的独特的蓝色大门，使其在外观上比牛津大学其他学院更加开放。尽管学校规模庞大，但学生人数相对较少，约有400人。原是一所男子学院，自1979年开始男女同校。  
-
 
 <br>
 
