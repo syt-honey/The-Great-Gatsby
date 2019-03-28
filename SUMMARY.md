@@ -33,3 +33,5 @@
 * [The-Great-Gatsby-part4](book/part4/chapter4-1.md)
   * [Chapter4.1](book/part4/chapter4-1.md)
     * [Handout4.1](handouts/part4/chapter4-1.md)
+  * [Chapter4.2](book/part4/chapter4-2.md)
+    * [Handout4.2](handouts/part4/chapter4-2.md)
