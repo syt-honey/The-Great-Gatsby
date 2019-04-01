@@ -174,19 +174,12 @@ Today's Bonus
 ![T-2](\images\handouts\part4\chapter4-3\T-2.jpg)  
 
 1. 子弹式（Swivel bar type）是最常见最多款式的形式，也是现代社会为了图方便而设计的，背后是个所谓子弹式转轴金属棍，可360度旋转，竖起后方便穿过四层衬衫袖，也就是自己一个人也容易佩戴。  
-
 ![T-3](\images\handouts\part4\chapter4-3\T-3.jpg)  
-
 2. 鲸尾式（Whale back type）拥有相对大而平滑的前端和笔直的“针”，后端栓扣就像鲸鱼的尾巴，扣紧时与“针”保持90度垂直;因为尺寸较大，非常易于佩戴。  
-
 ![T-4](\images\handouts\part4\chapter4-3\T-4.jpg)  
-
 3. 礼服专用扣子（Double-panel type），也可以作为袖扣。这种纽扣式背后是个小点的扁平纽扣，比正面的会略小一点，方便穿过扣洞。通常正反面用的材质会相同。但这种就很难自己一只手穿戴。  
-
 ![T-5](\images\handouts\part4\chapter4-3\T-5.jpg)  
-
 4. 盘扣（silk knot type）是由女性时尚而引发灵感的绳结/丝结，用单个或多个颜色丝线盘成的袖扣非常好看，可爱。  
-
 ![T-6](\images\handouts\part4\chapter4-3\T-6.jpg)  
 
 大家也可以找一找《了不起的盖茨比》电影中角色佩戴的袖扣哦~  
