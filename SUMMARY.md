@@ -44,3 +44,5 @@
     * [Handout5.1](handouts/part5/chapter5-1.md)
   * [Chapter5.2](book/part5/chapter5-2.md)
     * [Handout5.2](handouts/part5/chapter5-2.md)
+  * [Chapter5.3](book/part5/chapter5-3.md)
+    * [Handout5.3](handouts/part5/chapter5-3.md)
