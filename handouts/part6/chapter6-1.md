@@ -175,8 +175,7 @@ Then he drifted back to Lake Superior, and he was still searching for something 
 例句：It's more relaxing to just let the boat drift with the waves.  
 让船随波漂流更令人放松。  
 ②被他人的决定或感觉所左右  
-例句：When will you stop being such a follower, drifting with all of your friends' stupid ideas?
-  
+例句：When will you stop being such a follower, drifting with all of your friends' stupid ideas?  
 你什么时候才会停止追随你所有朋友的愚蠢想法呢?  
 ![T-2](\images\handouts\part6\chapter6-1\T-2.jpg)  
 4. drift off to sleep  
