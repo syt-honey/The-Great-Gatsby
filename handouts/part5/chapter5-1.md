@@ -119,7 +119,7 @@ Content Analysis
 
 Nick和Jordan见完面后的晚上，他回到西卵发现Gatsby的豪宅灯火通明，但里面却一片寂静。Gatsby还十分殷勤地邀请他出去玩（很明显地不合时宜），最后Nick似乎察觉到了Gatsby的急不可待，于是马上提出要安排他和Daisy的见面。其实作者在多处细节都透露了Gatsby的急切，以及他如何尽力压制自己的冲动而不至于显得过于唐突，我们来看一看其中比较有意思的一处——  
 
-💧**Gatsby is eager to show Daisy his mansion and wealth.**
+💧**Clue1: Gatsby is eager to show Daisy his mansion and wealth.**
 
 **Evidence 1:** Two o’clock and the whole corner of the peninsula was blazing with light, which fell unreal on the shrubbery and made thin elongating glints upon the roadside wires.  
 半夜两点钟了，而半岛的那整个一角照得亮堂堂的，光线照在灌木丛上好像是假的，又照在路旁电线上映出细细的一长条一长条的闪光。  
