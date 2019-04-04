@@ -49,3 +49,5 @@
 * [The-Great-Gatsby-part6](book/part6/chapter6-1.md)
   * [Chapter6.1](book/part6/chapter6-1.md)
     * [Handout6.1](handouts/part6/chapter6-1.md)
+  * [Chapter6.2](book/part6/chapter6-2.md)
+    * [Handout6.2](handouts/part6/chapter6-2.md)
