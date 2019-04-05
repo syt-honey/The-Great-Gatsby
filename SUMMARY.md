@@ -51,3 +51,5 @@
     * [Handout6.1](handouts/part6/chapter6-1.md)
   * [Chapter6.2](book/part6/chapter6-2.md)
     * [Handout6.2](handouts/part6/chapter6-2.md)
+  * [Chapter6.3](book/part6/chapter6-3.md)
+    * [Handout6.3](handouts/part6/chapter6-3.md)
