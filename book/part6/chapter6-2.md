@@ -1,5 +1,4 @@
 
-
 They were a party of three on horseback — Tom and a man named Sloane and a pretty woman in a brown riding-habit, who had been there previously.
 
 “I’m delighted to see you,” said Gatsby, standing on his porch. “I’m delighted that you dropped in.”

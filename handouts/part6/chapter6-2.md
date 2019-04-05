@@ -104,7 +104,7 @@ Gatsby既殷勤又得意地向Daisy和Tom介绍出席派对的社会名流，比
 
 💧**Clue1: The East Eggers are evidently contempt at the West Eggers.**
 
-**Evidence 1:**  We’ll all come over to your next party, Mr. Gatsby,” she suggested. “What do you say?” “Certainly; I’d be delighted to have you.” “Be ver’ nice,” said Mr. Sloane, without gratitude. “Well — think ought to be starting home.”  
+**Evidence 1:** We’ll all come over to your next party, Mr. Gatsby,” she suggested. “What do you say?” “Certainly; I’d be delighted to have you.” “Be ver’ nice,” said Mr. Sloane, without gratitude. “Well — think ought to be starting home.”  
 "我们都来参加你下次的晚会，盖茨比先生，"她提议说，"你看好不好？" "当然好了。你们能来，我太高兴了。" "那很好吧，"斯隆先生毫不承情地说，"呃——我看该回家了。"  
 
 **Evidence 2:** “My God, I believe the man’s coming,” said Tom. “Doesn’t he know she doesn’t want him?” “She says she does want him.” “She has a big dinner party and he won’t know a soul there.” He frowned.  
