@@ -53,3 +53,8 @@
     * [Handout6.2](handouts/part6/chapter6-2.md)
   * [Chapter6.3](book/part6/chapter6-3.md)
     * [Handout6.3](handouts/part6/chapter6-3.md)
+* [The-Great-Gatsby-part7](book/part7/chapter7-1.md)
+  * [Chapter7.1](book/part7/chapter7-1.md)
+    * [Handout7.1](handouts/part7/chapter7-1.md)
+  * [Chapter7.2](book/part7/chapter7-2.md)
+    * [Handout7.2](handouts/part7/chapter7-2.md)
