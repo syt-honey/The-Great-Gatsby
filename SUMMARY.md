@@ -58,3 +58,5 @@
     * [Handout7.1](handouts/part7/chapter7-1.md)
   * [Chapter7.2](book/part7/chapter7-2.md)
     * [Handout7.2](handouts/part7/chapter7-2.md)
+  * [Chapter7.3](book/part7/chapter7-3.md)
+    * [Handout7.3](handouts/part7/chapter7-3.md)
