@@ -119,7 +119,7 @@ Content Analysis
 
 这里a simple mind不仅指Tom的“思想单纯”（比如缺乏谨慎和周全），还暗示了他“只一门心思地想要获得对周围人事物的掌控权”，可以说是一种近乎不理智的偏执。所以他发现自己的情妇和妻子都在脱离自己控制的时候，便感觉惊慌无比。  
 
-**Evidence 2:**  Several times he turned his head and looked back for their car, and if the traffic delayed them he slowed up until they came into sight. I think he was afraid they would dart down a side street and out of his life forever.  
+**Evidence 2:** Several times he turned his head and looked back for their car, and if the traffic delayed them he slowed up until they came into sight. I think he was afraid they would dart down a side street and out of his life forever.  
 有好几次他掉过头去向后看，找他们的车子，如果路上的交通把他们耽误了，他就放慢速度，直到他们重新出现。我想他生怕他们会钻进一条小街，从此永远从他生活里消失。  
 
 Mr. Wilson决心带Myrtle离开，而且可能已经把她禁足了（在Tom和Nick以及Jordan逗留修车行的时候，Myrtle只是透过窗户看着他们：In one of the windows over the garage the curtains had been moved aside a little, and Myrtle Wilson was peering down at the car.）所以Tom已经失去了一个筹码，如果再失去Daisy, 他将承受无法想象的流言蜚语带来的羞辱感。  
