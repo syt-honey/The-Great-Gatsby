@@ -62,3 +62,5 @@
     * [Handout7.3](handouts/part7/chapter7-3.md)
   * [Chapter7.4](book/part7/chapter7-4.md)
     * [Handout7.4](handouts/part7/chapter7-4.md)
+  * [Chapter7.5](book/part7/chapter7-5.md)
+    * [Handout7.5](handouts/part7/chapter7-5.md)

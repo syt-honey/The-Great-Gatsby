@@ -27,7 +27,7 @@ libertine在14世纪从拉丁语（libertus）进入英语中，本义是指“�
 
 历史上有一个著名的浪荡子人物—— 十七世纪诗人约翰·威尔姆（John Wilmot）, 人称罗彻斯特伯爵二世（2nd Earl of Rochester），以放荡堕落英年早逝闻名，死后他的作品才受到各界注意与褒扬。他的一生短促而狂野，作为当时世人眼中诡计多端且天赋异秉的无耻之徒，他不仅成为英国历史中不可或缺的好事者、才华横溢的天才，还是对自由最坚信不移的浪荡子。  
 
-![B-3](\images\handouts\part7\chapter7-3\B-3.jpg)  
+![B-3](\images\handouts\part7\chapter7-4\B-3.jpg)  
 
 法国的一位导演根据以他的故事为原型的小说改编了一部电影，名字就叫The Libertine.  
 
