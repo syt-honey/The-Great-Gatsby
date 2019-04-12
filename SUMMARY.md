@@ -64,3 +64,8 @@
     * [Handout7.4](handouts/part7/chapter7-4.md)
   * [Chapter7.5](book/part7/chapter7-5.md)
     * [Handout7.5](handouts/part7/chapter7-5.md)
+  * [Chapter7.6](book/part7/chapter7-6.md)
+    * [Handout7.6](handouts/part7/chapter7-6.md)
+* [The-Great-Gatsby-part8](book/part8/chapter8-1.md)
+  * [Chapter8.1](book/part8/chapter8-1.md)
+    * [Handout8.1](handouts/part8/chapter8-1.md)
