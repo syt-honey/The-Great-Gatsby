@@ -73,3 +73,6 @@
     * [Handout8.2](handouts/part8/chapter8-2.md)
   * [Chapter8.3](book/part8/chapter8-3.md)
     * [Handout8.3](handouts/part8/chapter8-3.md)
+* [The-Great-Gatsby-part9](book/part9/chapter9-1.md)
+  * [Chapter9.1](book/part9/chapter9-1.md)
+    * [Handout9.1](handouts/part9/chapter9-1.md)
