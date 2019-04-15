@@ -9,15 +9,15 @@ Background Information
 
 James J. Hill（1838-1916）是一位加拿大裔美国铁路建筑家、金融家（a Canadian-American railroad executive and financier）. 他的传奇之处在于：他通过自筹资金修建了洲际铁路——大北方铁路。在没有任何政府补贴，甚至没有公共土地通行权的情况下，Hill修好了大北方铁路。他本人对此非常自豪。此外，他还花钱为自己的铁路买下了通行权，连印第安土地的通行权都买下来了。  
 
-![B-1](\images\handouts\part9\chapter8-1\B-1.jpg)  
+![B-1](\images\handouts\part9\chapter9-1\B-1.jpg)  
 
 但James J. Hill并不是出身贵族的大亨。他的父亲在他十四岁的时候去世，他因而辍学去杂货店打工，并用每个月四美元的收入来帮助他的寡母和兄弟姐妹。年轻的时候，他在农场、航运、轮船、皮毛贸易和铁路公司工作过。在这样的环境中，他学会了经商之道，存下了资金并最终成为了他自己企业的投资者和管理者。  
 
-![B-2](\images\handouts\part9\chapter8-1\B-2.jpg)  
+![B-2](\images\handouts\part9\chapter9-1\B-2.jpg)  
 
 James J. Hill还被人们称作是The Empire Builder（“帝国建设者”），为了纪念他的贡献，从芝加哥到太平洋西北岸（from Chicago to the Pacific Northwest）有一趟专线列车就叫作Empire Builder.  
 
-![B-3](\images\handouts\part9\chapter8-1\B-3.jpg)  
+![B-3](\images\handouts\part9\chapter9-1\B-3.jpg)  
 
 这里Gatsby的父亲把James J. Hill和自己的儿子相比，可以说是充满了自豪之情的。因为他的儿子也是在贫寒的家庭环境中靠自己的努力发家致富的。  
 
