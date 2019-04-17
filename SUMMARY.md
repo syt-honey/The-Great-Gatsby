@@ -78,3 +78,5 @@
     * [Handout9.1](handouts/part9/chapter9-1.md)
   * [Chapter9.2](book/part9/chapter9-2.md)
     * [Handout9.2](handouts/part9/chapter9-2.md)
+  * [Chapter9.3](book/part9/chapter9-3.md)
+    * [Handout9.3](handouts/part9/chapter9-3.md)
